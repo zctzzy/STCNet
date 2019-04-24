@@ -1,0 +1,32 @@
+2019-04-24 10:20:31.835383: [training]
+2019-04-24 10:20:33.688322: iter: [1/30], train_loss: 0.036027, valid_loss: 0.001228, best_valid_loss: 0.001228, lr: 0.01000
+2019-04-24 10:20:35.511528: iter: [2/30], train_loss: 0.003298, valid_loss: 0.000223, best_valid_loss: 0.000223, lr: 0.01000
+2019-04-24 10:20:37.332798: iter: [3/30], train_loss: 0.002046, valid_loss: 0.000222, best_valid_loss: 0.000222, lr: 0.01000
+2019-04-24 10:20:39.115494: iter: [4/30], train_loss: 0.002223, valid_loss: 0.000231, best_valid_loss: 0.000222, lr: 0.01000
+2019-04-24 10:20:40.954923: iter: [5/30], train_loss: 0.002011, valid_loss: 0.000132, best_valid_loss: 0.000132, lr: 0.01000
+2019-04-24 10:20:42.759295: iter: [6/30], train_loss: 0.001091, valid_loss: 0.000081, best_valid_loss: 0.000081, lr: 0.01000
+2019-04-24 10:20:44.540194: iter: [7/30], train_loss: 0.000907, valid_loss: 0.000091, best_valid_loss: 0.000081, lr: 0.01000
+2019-04-24 10:20:46.344515: iter: [8/30], train_loss: 0.001096, valid_loss: 0.000191, best_valid_loss: 0.000081, lr: 0.01000
+2019-04-24 10:20:48.145014: iter: [9/30], train_loss: 0.001030, valid_loss: 0.000083, best_valid_loss: 0.000081, lr: 0.01000
+2019-04-24 10:20:49.987872: iter: [10/30], train_loss: 0.000836, valid_loss: 0.000072, best_valid_loss: 0.000072, lr: 0.01000
+2019-04-24 10:20:51.753269: iter: [11/30], train_loss: 0.000854, valid_loss: 0.000105, best_valid_loss: 0.000072, lr: 0.01000
+2019-04-24 10:20:53.550363: iter: [12/30], train_loss: 0.001107, valid_loss: 0.000215, best_valid_loss: 0.000072, lr: 0.01000
+2019-04-24 10:20:55.368002: iter: [13/30], train_loss: 0.001148, valid_loss: 0.000119, best_valid_loss: 0.000072, lr: 0.01000
+2019-04-24 10:20:57.144319: iter: [14/30], train_loss: 0.001590, valid_loss: 0.000083, best_valid_loss: 0.000072, lr: 0.01000
+2019-04-24 10:20:58.913668: iter: [15/30], train_loss: 0.000836, valid_loss: 0.000081, best_valid_loss: 0.000072, lr: 0.01000
+2019-04-24 10:21:00.745829: iter: [16/30], train_loss: 0.000972, valid_loss: 0.000067, best_valid_loss: 0.000067, lr: 0.01000
+2019-04-24 10:21:02.521808: iter: [17/30], train_loss: 0.000769, valid_loss: 0.000069, best_valid_loss: 0.000067, lr: 0.01000
+2019-04-24 10:21:04.327820: iter: [18/30], train_loss: 0.000759, valid_loss: 0.000074, best_valid_loss: 0.000067, lr: 0.01000
+2019-04-24 10:21:06.139215: iter: [19/30], train_loss: 0.000810, valid_loss: 0.000077, best_valid_loss: 0.000067, lr: 0.01000
+2019-04-24 10:21:07.950694: iter: [20/30], train_loss: 0.000767, valid_loss: 0.000068, best_valid_loss: 0.000067, lr: 0.01000
+2019-04-24 10:21:09.790705: iter: [21/30], train_loss: 0.000763, valid_loss: 0.000066, best_valid_loss: 0.000066, lr: 0.01000
+2019-04-24 10:21:11.573842: iter: [22/30], train_loss: 0.000734, valid_loss: 0.000083, best_valid_loss: 0.000066, lr: 0.01000
+2019-04-24 10:21:13.374268: iter: [23/30], train_loss: 0.000760, valid_loss: 0.000084, best_valid_loss: 0.000066, lr: 0.01000
+2019-04-24 10:21:15.189960: iter: [24/30], train_loss: 0.000739, valid_loss: 0.000076, best_valid_loss: 0.000066, lr: 0.01000
+2019-04-24 10:21:17.059054: iter: [25/30], train_loss: 0.000704, valid_loss: 0.000064, best_valid_loss: 0.000064, lr: 0.01000
+2019-04-24 10:21:18.836801: iter: [26/30], train_loss: 0.000734, valid_loss: 0.000083, best_valid_loss: 0.000064, lr: 0.01000
+2019-04-24 10:21:20.644176: iter: [27/30], train_loss: 0.000704, valid_loss: 0.000080, best_valid_loss: 0.000064, lr: 0.01000
+2019-04-24 10:21:22.445896: iter: [28/30], train_loss: 0.000720, valid_loss: 0.000072, best_valid_loss: 0.000064, lr: 0.01000
+2019-04-24 10:21:24.258853: iter: [29/30], train_loss: 0.000722, valid_loss: 0.000070, best_valid_loss: 0.000064, lr: 0.01000
+2019-04-24 10:21:26.087621: iter: [30/30], train_loss: 0.000709, valid_loss: 0.000068, best_valid_loss: 0.000064, lr: 0.01000
+2019-04-24 10:22:13.149143: [training]
